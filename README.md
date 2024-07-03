@@ -7,6 +7,11 @@
 ### 🔭 I’m exploring - Interested in mastering backend development
 
 ### 📫 How to reach me **arifhossainaslam6@gmail.com**
+
+## 👨‍💻 About Me
+
+**Hello there! 👋 I'm Arif Hossain Aslam, a passionate Junior MERN Developer with a deep passion for creating intuitive and dynamic web applications. My journey in the world of web development has been an exciting exploration of the MERN (MongoDB, Express.js, React, Node.js) stack, where I've honed my skills in building responsive and user-friendly interfaces.**
+
 ## ⚔️ Languages and Tools
 
 <p align="center">
@@ -20,9 +25,6 @@
   </a>
 </p>
 
-## 👨‍💻 About Me
-
-**Hello there! 👋 I'm Arif Hossain Aslam, a passionate Junior MERN Developer with a deep passion for creating intuitive and dynamic web applications. My journey in the world of web development has been an exciting exploration of the MERN (MongoDB, Express.js, React, Node.js) stack, where I've honed my skills in building responsive and user-friendly interfaces.**
 
 ## 📈 Current stats
 
