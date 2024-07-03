@@ -5,7 +5,7 @@
 
 ### 🔭 I’m exploring - Interested in mastering backend development
 
-### 📫 How to reach me *arifhossainaslam6@gmail.com**
+### 📫 How to reach me **arifhossainaslam6@gmail.com**
 ## ⚔️ Languages and Tools
 
 <p align="center">
