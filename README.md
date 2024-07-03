@@ -24,6 +24,16 @@
 
 **Hello there! 👋 I'm Arif Hossain Aslam, a passionate Junior MERN Developer with a deep passion for creating intuitive and dynamic web applications. My journey in the world of web development has been an exciting exploration of the MERN (MongoDB, Express.js, React, Node.js) stack, where I've honed my skills in building responsive and user-friendly interfaces.**
 
+## 📈 Current stats
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=shuvajitmaitra&theme=tokyonight&mode=weekly&type=png"/></div>
+
+<a href="https://github.com/shuvajitmaitra"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ASLAM-stack&show_icons=true&locale=en&theme=tokyonight&layout=compact" width="45%" /></a>
+<a href="https://github.com/shuvajitmaitra"><img src="https://github-readme-stats.vercel.app/api?username=ASLAM-stack&show_icons=true&locale=en&theme=tokyonight" width="50%" /></a>
+
+![github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=ASLAM-stack)
+
 
 <!--
 **ASLAM-stack/ASLAM-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
