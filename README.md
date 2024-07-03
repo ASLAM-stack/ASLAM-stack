@@ -32,7 +32,7 @@
 <a href="https://github.com/shuvajitmaitra"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ASLAM-stack&show_icons=true&locale=en&theme=tokyonight&layout=compact" width="45%" /></a>
 <a href="https://github.com/shuvajitmaitra"><img src="https://github-readme-stats.vercel.app/api?username=ASLAM-stack&show_icons=true&locale=en&theme=tokyonight" width="50%" /></a>
 
-![github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=ASLAM-stack)
+![github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=shuvajitmaitra)
 
 
 <!--
