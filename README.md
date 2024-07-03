@@ -20,6 +20,11 @@
   </a>
 </p>
 
+## 👨‍💻 About Me
+
+**Hello there! 👋 I'm Shuvajit Maitra, a passionate Junior MERN Developer with a deep passion for creating intuitive and dynamic web applications. My journey in the world of web development has been an exciting exploration of the MERN (MongoDB, Express.js, React, Node.js) stack, where I've honed my skills in building responsive and user-friendly interfaces.**
+
+
 <!--
 **ASLAM-stack/ASLAM-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
