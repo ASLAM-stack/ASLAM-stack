@@ -35,6 +35,15 @@
 <a href="https://github.com/ASLAM-stack"><img src="https://github-readme-stats.vercel.app/api?username=ASLAM-stack&show_icons=true&locale=en&theme=tokyonight" width="50%" /></a>
 
 ![github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=ASLAM-stack)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
 
 
 <!--
